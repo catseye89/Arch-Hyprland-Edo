@@ -1,0 +1,40 @@
+[modules]
+left = [ "Workspaces" ]
+#center = [ "WindowTitle" ]
+right = [ ["SystemInfo", "Clock", "Privacy", "Settings" ] ]
+
+[system]
+indicators = [ "Cpu", "Memory", "Temperature" ]
+
+# CPU indicator thresholds
+# optional
+[system.cpu]
+# cpu indicator warning level (default 60)
+warn_threshold = 60
+# cpu indicator alert level (default 80)
+alert_threshold = 80
+
+# Memory indicator thresholds
+# optional
+[system.memory]
+# mem indicator warning level (default 70)
+warn_threshold = 70
+# mem indicator alert level (default 85)
+alert_threshold = 85
+
+# Memory swap indicator thresholds
+# optional
+[system.temperature]
+# temperature indicator warning level (default 60)
+warn_threshold = 60
+# temperature indicator alert level (default 80)
+alert_threshold = 80
+
+# Disk indicator thresholds
+# optional
+[system.disk]
+# disk indicator warning level (default 80)
+warn_threshold = 80
+# disk indicator alert level (default 90)
+alert_threshold = 90
+
