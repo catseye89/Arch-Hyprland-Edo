@@ -1,6 +1,6 @@
 Packages from minimal archinstall 
 <br/>
-hyprland hypridle hyprlock hyprshot azote wofi ly fish nwg-displays nwg-look kitty pavucontrol firefox 
+hyprland hypridle hyprlock hyprshot azote wofi ly fish nwg-displays nwg-look kitty pavucontrol firefox pcmanfm-gtk3 gvfs gvfs-mtp
 <br/>
 <br/>
 Get paru https://github.com/Morganamilo/paru <br/>
