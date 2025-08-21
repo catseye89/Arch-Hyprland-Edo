@@ -1,6 +1,6 @@
 Packages from minimal archinstall 
 <br/>
-hyprland hypridle hyprlock hyprshot azote wofi ly fish adw-gtk-theme nwg-displays nwg-look kitty pavucontrol firefox pcmanfm-gtk3 gvfs gvfs-mtp xarchiver unrar unzip p7zip
+hyprland hypridle hyprlock hyprshot brightnessctl azote wofi ly fish adw-gtk-theme nwg-displays nwg-look kitty pavucontrol firefox pcmanfm-gtk3 gvfs gvfs-mtp xarchiver unrar unzip p7zip
 <br/>
 <br/>
 Get paru https://github.com/Morganamilo/paru <br/>
