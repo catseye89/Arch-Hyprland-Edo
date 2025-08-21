@@ -12,6 +12,28 @@ libreoffice-fresh thunderbird vlc gimp simple-scan guvcview fastfetch
 noto-fonts noto-fonts-emoji noto-fonts-cjk ttf-roboto ttf-fira-mono ttf-liberation ttf-dejavu
 <br/>
 
+Binds
+<br/>
+Mod + D Wofi
+<br/>
+Mod + Q Quit focused
+<br/>
+Mod + T Terminal
+<br/>
+Mod + Z FileManager
+<br/>
+Mod + 1-10 Move to workspaces
+<br/>
+Mode + Shift + 1-10 Move focused to workspace 1-10
+<br/>
+Mod + M Exit hyprland
+<br/>
+Mod + V Toggle flot
+<br/>
+Mod + K Pseudo Dwindle
+<br/>
+Mod + J Toggle split
+
 Credits to anyone making this possible and to my coffeemachine for keeping up with my shit
 
 <img width="1680" height="1048" alt="grafik" src="https://github.com/user-attachments/assets/46f78396-6554-4102-8b7c-0d9d7d696e2e" />
