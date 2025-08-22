@@ -17,6 +17,8 @@ Mod + D Wofi
 <br/>
 Mod + Q Quit focused
 <br/>
+Mod + ⬅ ➡  ⬇ ⬆  
+<br/>
 Mod + T Terminal
 <br/>
 Mod + Z FileManager
