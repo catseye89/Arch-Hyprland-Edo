@@ -36,7 +36,7 @@ Mod + J Toggle split
 
 Credits to anyone making this possible and to my coffeemachine for keeping up with my shit
 
-<img width="1680" height="1048" alt="grafik" src="https://github.com/user-attachments/assets/46f78396-6554-4102-8b7c-0d9d7d696e2e" />
+<img width="1680" height="1050" alt="grafik" src="https://github.com/user-attachments/assets/d4d39e7e-09c8-40dc-8eae-440d4b38cf42" />
 <br/><br/>
 <img width="1680" height="1048" alt="grafik" src="https://github.com/user-attachments/assets/7f682f66-c6bb-4b90-86e4-3fa2e7737c89" />
 <br/><br/>
