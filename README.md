@@ -23,6 +23,8 @@ Mod + T Terminal
 <br/>
 Mod + Z FileManager
 <br/>
+Mod + P Screenshot from selection
+<br/>
 Mod + 1-10 Move to workspaces
 <br/>
 Mode + Shift + 1-10 Move focused to workspace 1-10
