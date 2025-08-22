@@ -5,6 +5,10 @@ hyprland hypridle hyprlock hyprshot brightnessctl swaybg power-profiles-daemon a
 <br/>
 Get paru https://github.com/Morganamilo/paru <br/>
 Get bar https://github.com/MalpenZibo/ashell <br/>
+paru -S ashell
+<br/>
+Get icons https://github.com/Adapta-Projects/Papirus-Nord <br/>
+paru -S papirus-nord
 <br/>
 Optional
 <br/>
