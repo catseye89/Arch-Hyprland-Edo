@@ -39,7 +39,3 @@ Credits to anyone making this possible and to my coffeemachine for keeping up wi
 <img width="1680" height="1050" alt="grafik" src="https://github.com/user-attachments/assets/d4d39e7e-09c8-40dc-8eae-440d4b38cf42" />
 <br/><br/>
 <img width="1680" height="1048" alt="grafik" src="https://github.com/user-attachments/assets/7f682f66-c6bb-4b90-86e4-3fa2e7737c89" />
-<br/><br/>
-<img width="1680" height="1050" alt="grafik" src="https://github.com/user-attachments/assets/66c2eb65-b35a-495f-aac9-612eed87eac5" />
-
-
