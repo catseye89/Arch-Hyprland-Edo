@@ -27,7 +27,7 @@ Mode + Shift + 1-10 Move focused to workspace 1-10
 <br/>
 Mod + M Exit hyprland
 <br/>
-Mod + V Toggle flot
+Mod + V Toggle float
 <br/>
 Mod + K Pseudo Dwindle
 <br/>
