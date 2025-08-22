@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=fLBdosjp1SU
 
 Packages from minimal archinstall 
 <br/>
-hyprland hypridle hyprlock hyprshot brightnessctl swaybg power-profiles-daemon azote wofi ly fish adw-gtk-theme nano git nwg-displays nwg-look kitty pavucontrol firefox tela-circle-icon-theme-orange pcmanfm-gtk3 gvfs gvfs-mtp xarchiver unrar unzip p7zip noto-fonts noto-fonts-emoji noto-fonts-cjk ttf-roboto ttf-fira-mono ttf-liberation ttf-dejavu 
+hyprland hypridle hyprlock hyprshot brightnessctl swaybg mako power-profiles-daemon azote wofi ly fish adw-gtk-theme nano git nwg-displays nwg-look kitty pavucontrol firefox tela-circle-icon-theme-orange pcmanfm-gtk3 gvfs gvfs-mtp xarchiver unrar unzip p7zip noto-fonts noto-fonts-emoji noto-fonts-cjk ttf-roboto ttf-fira-mono ttf-liberation ttf-dejavu 
 <br/>
 <br/>
 Get paru https://github.com/Morganamilo/paru <br/>
