@@ -17,7 +17,7 @@ Mod + D Wofi
 <br/>
 Mod + Q Quit focused
 <br/>
-Mod + ⬅ ➡  ⬇ ⬆  
+Mod + ⬅ ➡  ⬇ ⬆  Move focus
 <br/>
 Mod + T Terminal
 <br/>
