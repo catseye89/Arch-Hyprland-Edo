@@ -30,6 +30,10 @@ Mod + Z FileManager
 <br/>
 Mod + P Screenshot from selection
 <br/>
+Mod + F Fullscreen focused
+<br/>
+Mod + Shift + F Fullscreen focused, entire screen
+<br/>
 Mod + 1-10 Move to workspaces
 <br/>
 Mode + Shift + 1-10 Move focused to workspace 1-10
